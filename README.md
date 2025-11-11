@@ -9,7 +9,7 @@ Data utama diperoleh dari hasil scraping langsung melalui Google Play Store untu
 Selain itu, digunakan pula dataset tambahan dari Kaggle sebagai pembanding untuk memperkaya data analisis.
 
 Link dataset pendukung:
-Google Play Store Reviews Dataset (Kaggle)
+https://www.kaggle.com/datasets/rindangchi/traveloka-google-playstore-review
 
 🌐 2. Scraping Ulasan Aplikasi Traveloka
 
